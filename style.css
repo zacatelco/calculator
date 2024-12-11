@@ -1,0 +1,25 @@
+td,
+th {
+  border: 1px solid red;
+}
+
+table {
+  text-align: center;
+  width: 200px;
+  height: 300px;
+  border: 5px solid green;
+  table-layout: fixed;
+}
+
+td:hover {
+  background-color: lightcoral;
+  color: white;
+}
+
+#input {
+  text-align: right;
+}
+
+caption {
+  margin-bottom: 20px;
+}
